@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /.freebuff/
-Disallow: /googleb393e1d667adfee9.html
-
-Sitemap: https://kaurpreet.vercel.app/sitemap.xml
